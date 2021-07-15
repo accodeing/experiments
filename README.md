@@ -2,7 +2,7 @@
 
 Collection of proof of concept type experiments.
 
-## React dynamic form builder
+## [React dynamic form builder](./react-dynamic-form-builder/build/)
 
 Given a JSON file construct a meaningful form for editing the data,
 automatically, without any prior knowledge of the contents.
